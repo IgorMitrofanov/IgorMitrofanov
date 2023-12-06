@@ -1,6 +1,6 @@
 # 👋 Hi there, welcome to my GitHub profile! 
 
-I am a data analyst and Python developer with a robust background in nuclear physics engineering, backed by three years of experience as a physicist at a [Nuclear Research Institute of Atomic Reactors](https://www.niiar.ru/eng). I am also the proud author of 14 scientific articles on nuclear reactors physics. Currently, I serve as the lead data analyst at [Escort Monitoring Systems](https://www.fmeter.ru/en/), an international manufacturer of measuring equipment for GPS/Glonass satellite systems in transport monitoring, including fuel level sensors and control detectors for various machinery used in road construction, public utility, and agriculture.
+I am a data analyst and Python developer with a background in nuclear physics engineering, backed by three years of experience as a physicist at a [Nuclear Research Institute of Atomic Reactors](https://www.niiar.ru/eng). I am also the proud author of 14 scientific articles on nuclear reactors physics. Currently, I serve as the lead data analyst at [Escort Monitoring Systems](https://www.fmeter.ru/en/), an international manufacturer of measuring equipment for GPS/Glonass satellite systems in transport monitoring, including fuel level sensors and control detectors for various machinery used in road construction, public utility, and agriculture.
 
 I have three years of experience in Python programming and am currently exploring Go-lang. Additionally, I have successfully completed two courses at Yandex Practicum:
 
