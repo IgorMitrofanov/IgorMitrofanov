@@ -16,11 +16,12 @@ I have three years of experience in Python programming and am currently explorin
 
 - **Communication Skills:**
   - Effective collaboration within cross-functional teams.
-  - Experienced in mentoring and guiding others, fostering a supportive and growth-oriented learning environment.
-  - Passionate about teaching, with a background as a tutor in mathematics, physics, and computer science for about 4 years during my studies at the institute.
+  - Passionate about teaching, with a background as a tutor in mathematics, physics, and computer science for about 4 years during my studies at the institute. Experienced in mentoring and guiding others, fostering a supportive and growth-oriented learning environment.
 
 - **Team Leadership and Development:**
-  - Leading and developing teams, fostering an innovative and collaborative work environment. Promoting an innovative and collaborative work culture for team members.
+  - Proven track record of leading and developing teams.
+  - Dedicated to fostering an innovative and collaborative work environment, promoting a culture of creativity and cooperation among team members.
+
  
 ## Python Features
 - Object-Oriented Programming (OOP): Adept at designing and implementing robust and modular solutions using OOP principles. Leveraging encapsulation, inheritance, and polymorphism to create efficient and maintainable code.
