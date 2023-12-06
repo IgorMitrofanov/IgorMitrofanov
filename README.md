@@ -16,7 +16,8 @@ I have three years of experience in Python programming and am currently explorin
 
 - **Communication Skills:**
   - Effective collaboration within cross-functional teams.
-  - I love teaching and even worked as a tutor in mathematics, physics, and computer science for about 4 years while studying at the institute.
+  - Experienced in mentoring and guiding others, fostering a supportive and growth-oriented learning environment.
+  - Passionate about teaching, with a background as a tutor in mathematics, physics, and computer science for about 4 years during my studies at the institute.
 
 - **Team Leadership and Development:**
   - Leading and developing teams, fostering an innovative and collaborative work environment. Promoting an innovative and collaborative work culture for team members.
