@@ -28,7 +28,7 @@ I have three years of experience in Python programming and am currently explorin
 - Dataclasses: Utilizing the power of data classes for concise and readable code, enhancing the representation and structure of data in Python projects.
 
 ## Jupyter Notebooks
-Interactive Data Exploration: Proficient in using Jupyter Notebooks for interactive data exploration and analysis, providing a dynamic and visual representation of complex data sets.
+- Interactive Data Exploration: Proficient in using Jupyter Notebooks for interactive data exploration and analysis, providing a dynamic and visual representation of complex data sets.
 
 ## Data Analysis and Machine Learning
 - Pandas
