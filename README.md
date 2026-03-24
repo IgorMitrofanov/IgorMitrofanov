@@ -90,39 +90,15 @@ Infra glue         -> Docker, Linux, automation, deployment workflows
 Applied research   -> turning experiments into systems that can be operated
 ```
 
-## GitHub Analytics
+## Current Focus
 
-<div align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=IgorMitrofanov&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=IgorMitrofanov&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=ffffff&title_color=0f172a&text_color=334155&icon_color=0ea5e9" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source
-      srcset="https://streak-stats.demolab.com?user=IgorMitrofanov&hide_border=true&background=00000000&ring=38bdf8&fire=38bdf8&currStreakLabel=e2e8f0&sideNums=e2e8f0&currStreakNum=ffffff&sideLabels=94a3b8&dates=94a3b8"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img height="170" src="https://streak-stats.demolab.com?user=IgorMitrofanov&hide_border=true&background=ffffff&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0f172a&sideNums=0f172a&currStreakNum=0f172a&sideLabels=475569&dates=64748b" alt="GitHub streak" />
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMitrofanov&layout=compact&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=cbd5e1"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMitrofanov&layout=compact&hide_border=true&bg_color=ffffff&title_color=0f172a&text_color=334155" alt="Top languages" />
-  </picture>
-  <img height="160" src="https://github-profile-trophy.vercel.app/?username=IgorMitrofanov&theme=algolia&no-frame=true&no-bg=true&row=1&column=4" alt="GitHub trophies" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=IgorMitrofanov&bg_color=0b1220&color=cbd5e1&line=38bdf8&point=7dd3fc&area=true&hide_border=true" alt="Activity graph" />
-</div>
+```text
+LLM systems       -> applied assistants, evaluation flows, prompt pipelines
+RAG infrastructure -> embeddings, retrieval quality, support knowledge systems
+Computer vision   -> detection, measurement, and scene understanding for real objects
+Telemetry         -> weather, BLE, sensor validation, and industrial data pipelines
+Automation        -> bots, internal tools, Linux services, and deployment workflows
+```
 
 ## Contribution Flow
 
