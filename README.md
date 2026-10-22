@@ -1,3 +1,5 @@
+<p align="center"><strong>English</strong> · <a href="https://github.com/IgorMitrofanov/IgorMitrofanov/blob/main/README.ru.md">Русский</a></p>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:0b1220,35:12304a,70:1f6f8b,100:38bdf8&amp;text=Igor%20Mitrofanov&amp;fontColor=f8fafc&amp;fontSize=52&amp;fontAlignY=38&amp;desc=Lead%20AI%20Systems%20Engineer&amp;descAlignY=58" alt="Igor Mitrofanov — Lead AI Systems Engineer" width="100%" />
   <p><strong>Agent systems · Knowledge engineering · Applied AI products</strong></p>
