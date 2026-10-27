@@ -8,16 +8,19 @@
     <a href="#engineering-focus">Engineering focus</a> ·
     <a href="#selected-work">Selected work</a> ·
     <a href="#toolbox">Toolbox</a> ·
-    <a href="#public-code">Public code</a> ·
     <a href="#contact">Contact</a>
   </p>
 </div>
 
 ## About
 
-I build AI systems that work with real users, technical knowledge, and physical devices. My background is in nuclear physics, data analytics, and industrial R&D. Today, my main focus is **LLM applications, agent architecture, and the backend systems that make them usable and reliable**.
+I build AI systems that work with real users, technical knowledge, and physical devices. I work as Lead AI Systems Engineer at Techautomatics LLC. Today, my main focus is **LLM applications, agent architecture, and the backend systems that make them usable and reliable**.
 
 I take responsibility for the full engineering cycle: understanding the problem, designing the solution, building the service and its interfaces, evaluating behavior, deploying, and improving it. Alongside internal engineering projects, I work on commercial AI automation, including process discovery and implementation planning.
+
+I founded **dev-decisions**, an independent engineering practice for applied AI and business automation. I run the business while remaining hands-on in development: finding clients, clarifying requirements, estimating scope and cost, agreeing commercial terms, and managing delivery. I also design the architecture and write the code.
+
+For specific tasks, I bring in developers from my pool of collaborators and have also worked with UI/UX designers. I define tasks, coordinate their work and review the results.
 
 ## Engineering focus
 
@@ -33,6 +36,18 @@ I take responsibility for the full engineering cycle: understanding the problem,
 ## Selected work
 
 Most of my current engineering work is in private repositories. These summaries describe the projects and my work on them; prototypes and ongoing development are marked explicitly.
+
+### Industrial programming stations
+
+Software for tabletop and gantry stations that automate in-circuit microcontroller programming. My work covers the operator interface, device communication, programming and diagnostics workflows. This combines Python application development with industrial hardware integration.
+
+### Device management and telemetry
+
+Backend services for managing devices, users and telemetry: REST APIs, authorization, data collection, event logging and Telegram notifications. The stack includes FastAPI, SQLAlchemy, asyncio, PostgreSQL and Docker.
+
+### Inspection-robot video system
+
+Multi-camera video streaming and recording software with an operator interface. I worked on concurrent video processing and stream control using Python, GStreamer, OpenCV and PyQt.
 
 ### AI technical support
 
@@ -62,6 +77,9 @@ A supervised agent runtime in Go, exploring typed tools, execution policies, per
 - Interview and meeting analysis: recording upload, transcription, LLM analysis, reports, and history.
 - Computer vision: industrial object detection, depth estimation, 3D reconstruction, and volume estimation.
 - Industrial data: weather-station validation, telemetry analysis, sensor calibration, and data quality checks.
+- Desktop engineering tools: device configuration, serial communication, measurement plots and packaging applications for operators.
+- Data science: exploratory analysis and classical ML experiments, including a public customer-churn study project.
+- Engineering calculations: Excel and VBA tools for numerical calculations and processing experimental data.
 - Automation products: stateful Telegram bots, internal tools, APIs, and deployment workflows.
 
 </details>
@@ -76,19 +94,33 @@ A supervised agent runtime in Go, exploring typed tools, execution policies, per
 
 ## Toolbox
 
-| Layer | Tools I use across projects |
+| Area | Tools and methods used across projects |
 | --- | --- |
-| **Backend** | Python, Go, FastAPI, SQL |
-| **LLM systems and retrieval** | LLM APIs, tool calling, structured outputs, LangGraph, Qdrant, embeddings, BM25, reranking |
-| **Data and state** | PostgreSQL, Redis, SQLite, pandas |
-| **Web and mobile** | TypeScript, React, Vite, Kotlin, Jetpack Compose, ARCore |
-| **Vision and geometry** | OpenCV, PyTorch, YOLO, Open3D, point-cloud processing |
-| **Delivery and operations** | Linux, Docker, GitHub Actions, tracing, regression and load testing |
+| **Backend and APIs** | Python, Go, FastAPI, SQLAlchemy, asyncio, REST APIs |
+| **LLM applications** | LLM APIs, tool calling, structured outputs, LangGraph, Whisper |
+| **Search and knowledge** | Qdrant, pgvector, embeddings, BM25, hybrid retrieval, reranking, OCR |
+| **Databases and application state** | PostgreSQL, Supabase, Redis, SQLite |
+| **Data analysis and statistics** | pandas, NumPy, statsmodels, exploratory analysis, calibration |
+| **Classical ML — study and experimental work** | scikit-learn, CatBoost, logistic regression, random forests, cross-validation |
+| **Dashboards and plots** | Dash, Plotly, Matplotlib, seaborn |
+| **Workflow automation** | n8n, Telegram bots, API integrations |
+| **Web interfaces** | TypeScript, React, Vite |
+| **Android and AR** | Kotlin, Jetpack Compose, ARCore |
+| **Desktop applications** | PyQt, Tkinter, ttkbootstrap, PySimpleGUI, PyInstaller |
+| **Vision, geometry and video** | OpenCV, PyTorch, YOLO, Open3D, GStreamer, concurrent video processing |
+| **Hardware integration** | C, pySerial, Modbus, RS-485, device programming and diagnostics |
+| **Engineering calculations** | Excel, VBA, numerical calculations, approximation methods |
+| **Delivery and verification** | Linux, Docker, GitHub Actions, tracing, regression and load testing |
 
-## Public code
+The list covers tools used across professional, personal and study projects. It does not imply equal depth in every tool or production deployment of every method.
 
-- [Meteorological verification data](https://github.com/IgorMitrofanov/global-meteostation-verefication-data) — an earlier Python project for collecting and analyzing weather-station verification records, with a dashboard.
-- [Self-hosted automation setup](https://github.com/IgorMitrofanov/n8n-install-outline) — my fork of [kossakovsky/selfhost-ai](https://github.com/kossakovsky/selfhost-ai), a Docker Compose setup for self-hosted AI and automation tools.
+## Scientific work
+
+I worked as a reactor physicist at the Research Institute of Atomic Reactors (RIAR). I took part in the modernization of the SM-3 research reactor in 2020, developed methods for calculating its neutronic characteristics, and led experiments.
+
+I hold licenses authorizing work in the field of nuclear energy as a reactor physicist, valid until July 2027. I have co-authored scientific publications.
+
+[Author profile and publications on eLIBRARY](https://www.elibrary.ru/author_profile.asp?authorid=1087867).
 
 ## Contact
 
@@ -110,3 +142,4 @@ For applied AI systems, backend engineering, and business automation: [Telegram]
 ---
 
 **Build useful systems. Keep the evidence. Make the behavior understandable.**
+
